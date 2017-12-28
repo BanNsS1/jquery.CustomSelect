@@ -1,7 +1,7 @@
 # jquery.customSelect
 dynamic Custom Select
 
-##Live demo
+## Live demo
 
 http://bannss1.globat.com/demos/jquery.customSelect/
 
