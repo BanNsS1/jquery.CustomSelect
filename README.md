@@ -37,4 +37,4 @@ $.customSelect({
 
 > **template** the html structure of each option. **Must contain the 'data-select-value' attribute** which will be the value sent.
 
-**Note** arguments of options will be passed to template as **$**#. The argument 0 will be $0, 1 will be #1 and so on.
+**Note** arguments of options will be passed to template as **$**#. The argument 0 will be $0, 1 will be $1 and so on.
