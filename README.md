@@ -31,9 +31,9 @@ $.customSelect({
 
 ## Params
 
-> **identifier** just an identifier to avoid problems if you use more than one customSelect in the same time.
+> **identifier** just an identifier to avoid problems if you use more than one customSelect in the same page.
 
-> **selector** input (doesn't require to be hidden but you might want it to be) that will store the value selected. The select will be place right after it.
+> **selector** input (its type doesn't require to be hidden but you might want it to be) that will store the value selected. The select will be place right after it.
 
 > **placeholder** text to show initially.
 
